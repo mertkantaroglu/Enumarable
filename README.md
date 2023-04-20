@@ -9,8 +9,8 @@ This project will build the decode of morse message.
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
-- [📖 Morse code ](#-morse-code-)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Enumerables ](#-enumerables-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -20,6 +20,7 @@ This project will build the decode of morse message.
     - [Setup ](#setup-)
   - [👥 Authors ](#-authors-)
     - [👤 **Mert Kantaroglu**](#-mert-kantaroglu)
+    - [👤 **Nezerwa Eligrand**](#-nezerwa-eligrand)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -28,9 +29,9 @@ This project will build the decode of morse message.
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse code <a name="about-project"></a>
+# 📖 Enumerables <a name="about-project"></a>
 
-**Morse code** will help decode the Morse messages.
+**Enumerables** will help checking if the input satisfy enumerable conditions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,8 +76,8 @@ Example commands:
 
 ```sh
   cd <desired-folder>
-  git clone https://github.com/mertkantaroglu/Morse-Code-Decoder.git
-  cd Morse-Code-Decoder
+  git clone https://github.com/mertkantaroglu/Enumarable.git
+  cd Enumarable
 ```
 
 In order to run this project you need:
@@ -100,7 +101,8 @@ Example command:
 - Twitter: [@aranelluinwe](https://twitter.com/aranelluinwe)
 - LinkedIn: [mertkantaroglu](https://www.linkedin.com/in/mert-kantaroglu/)
 
-👤 **Nezerwa Eligrand**
+
+### 👤 **Nezerwa Eligrand**
 
 - GitHub: [@nezerwa](https://github.com/nezerwa/)
 - Twitter: [@eligrand](https://twitter.com/eligrand1)
@@ -112,7 +114,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Creating personal morse code commands
+- [ ] Creating personal enumerable commands
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,6 +148,6 @@ I would like to thank for Microverse to provide us learning materials, and my pe
 
 ## 📝 License <a name="license"></a>
 
-This project is contributed under [GNU 3.0](./LICENSE.md) licensed.
+This project is contributed under [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
