@@ -103,7 +103,7 @@ Example command:
 👤 **Nezerwa Eligrand**
 
 - GitHub: [@nezerwa](https://github.com/nezerwa/)
-- Twitter: [@eligrand1](https://twitter.com/eligrand1)
+- Twitter: [@eligrand](https://twitter.com/eligrand1)
 - LinkedIn: [eligrand-nezerwa](https://www.linkedin.com/in/eligrand-nezerwa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
